@@ -33,14 +33,13 @@ The above table shows that a Hardtop is the costliest at an average price of 222
 
 <img width="450" alt="Screenshot 2021-04-25 at 6 09 48 PM" src="https://user-images.githubusercontent.com/52528480/116002363-07c8f080-a617-11eb-866e-9e922b06533c.png">
 The cars are grouped into three categories based on their horsepower as High-speed,Low-speed and Medium-speed.Horse power is divided into three 3 category raanges i.e; <img width="288" alt="Screenshot 2021-04-25 at 10 38 40 PM" src="https://user-images.githubusercontent.com/52528480/116002383-1fa07480-a617-11eb-809b-5ccf6b42f256.png">
-
 The above bar graph shows the  Avg price for  each category.It supports a quite popular belief that fast cars are more costly.
-
 
 <img width="483" alt="Screenshot 2021-04-25 at 6 10 11 PM" src="https://user-images.githubusercontent.com/52528480/116002634-53c86500-a618-11eb-82ce-82779a3bbd79.png">
 <img width="476" alt="Screenshot 2021-04-25 at 6 10 21 PM" src="https://user-images.githubusercontent.com/52528480/116002648-5e82fa00-a618-11eb-9a2b-ad72990bb1cb.png">
 The table shows the dimentions of each carbody type.The bar graph is a visual representation of the same.
 
+  
 
 <img width="467" alt="Screenshot 2021-04-25 at 6 10 32 PM" src="https://user-images.githubusercontent.com/52528480/116002789-f5e84d00-a618-11eb-9000-155bcec38bec.png">
-The above bar graph shows price for each carbody type along with their fueltype.Already from the previous graphs is was clear that hardtop were in the top tier in terms of price now in addition to that the aove graph shows that hardtop with diesel engine is more costly than a hardtop with gasoline engine.Now at the bottom end of the spectrum we already knew that hatchbacks with four doors were the cheapest.Now by looking at the graph we can say that hatchback with gasoline engine is cheaper than a diesel engine of the same body type.
+The above bar graph shows price for each carbody type along with their fueltype.Already from the previous graphs is was clear that hardtop's were in the top tier in terms of price now in addition to that the aove graph shows that hardtop with diesel engine is more costly than a hardtop with gasoline engine.Now at the bottom end of the spectrum we already knew that hatchbacks with four doors were the cheapest.Now by looking at the graph we can say that hatchback with diesel engine is cheaper than a gasoline engine of the same body type.
